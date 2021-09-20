@@ -12,7 +12,7 @@
 
 # 第二阶段：决定开发方向：
 
-1.使用ModbusRTU转TCP设备 + 设备厂家的云平台——成本：100 + 云平台流量费用，开发速度较快
+1.使用ModbusRTU转TCP设备 + 设备厂家的云平台——成本：100 + 云平台流量费用（较高）
 
 <img src="https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/3159274970/O1CN01ClvJYT1maJ9MlmnKq_!!3159274970.png_430x430q90.jpg" style="zoom: 50%;" />
 
@@ -22,6 +22,6 @@
 
 <img src="https://gd1.alicdn.com/imgextra/i2/880983124/O1CN01Xx0k731YwpzsaVigi_!!880983124.jpg" style="zoom: 33%;" />
 
-3.使用RTOS单片机作网关，外网web控制——成本：100~200，开发速度较慢
+3.使用RTOS单片机作网关，外网web控制——成本：100~200
 
 <img src="https://img.alicdn.com/imgextra/i1/4160407286/O1CN01gFgjSP23h2MNbII1t_!!4160407286.png_430x430q90.jpg" style="zoom: 67%;" />
