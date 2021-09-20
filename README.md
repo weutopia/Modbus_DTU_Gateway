@@ -10,13 +10,11 @@
 
 已经实现读取/预置面板信息，由于寄存器写操作只开放了16功能码，只能写入部分面板信息
 
-# 第二阶段：决定开发方向：
+# 第二阶段：决定开发方向
 
 1.使用ModbusRTU转TCP设备 + 设备厂家的云平台——成本：100 + 云平台流量费用（较高）
 
 <img src="https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/3159274970/O1CN01ClvJYT1maJ9MlmnKq_!!3159274970.png_430x430q90.jpg" style="zoom: 50%;" />
-
-
 
 2.使用嵌入式Linux开发板作网关，内网web控制——成本：600~800，开发速度较慢
 
